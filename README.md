@@ -4,4 +4,4 @@ This repo contains a high-level, basic example of utilizing Python, Jupyter Note
 1) To present information in a way that others can learn from and develop models of their own
 2) To identify and predict malicious actors' tendencies based on AWS honeypot data from 2013
 
-A direct link to the page can be found [here](https://faazo.github.io/AWS-Honeypot-Analysis/).
+A direct link to the page can be found [here](https://faazo.github.io/aws-honeypot-analysis).
